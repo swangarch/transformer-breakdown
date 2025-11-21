@@ -1,0 +1,13 @@
+__pycache__
+
+venv
+
+visualization
+
+weights.pth
+
+OLD
+
+predictions.csv
+
+prediction.csv
